@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/nashir-ali-775936426">
+    <img src="https://img.shields.io/badge/LinkedIn-Nashir%20Ali-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nashirali2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -259,17 +259,20 @@ Pursuing a **B.Tech in Robotics & Artificial Intelligence**, with a focus on dev
 ## Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  <a href="https://leetcode.com/u/Sage_Nashu/">
+    <img src="https://img.shields.io/badge/LeetCode-Sage__Nashu-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
   <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-1F1F1F?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+  <a href="https://www.hackerrank.com/profile/nashirali2007">
+    <img src="https://img.shields.io/badge/HackerRank-nashirali2007-1F1F1F?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
   </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://www.hackerearth.com/@nashirali2007">
+    <img src="https://img.shields.io/badge/HackerEarth-nashirali2007-2C3454?style=for-the-badge&logo=hackerearth&logoColor=2C3454"/>
+  </a>
+  <a href="https://www.codechef.com/users/nashu07">
+    <img src="https://img.shields.io/badge/CodeChef-nashu07-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
@@ -360,7 +363,7 @@ Open To:
   <a href="mailto:nashirali2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-nashirali2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/nashir-ali-775936426">
     <img src="https://img.shields.io/badge/LinkedIn-Nashir%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Nashu07">
@@ -378,3 +381,4 @@ Open To:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:312e81&height=120&section=footer" width="100%"/>
 </p>
 ```
+
