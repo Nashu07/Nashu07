@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Nashir Ali</h1>
 
 <p align="center">
@@ -242,7 +242,7 @@ Pursuing a **B.Tech in Robotics & Artificial Intelligence**, with a focus on dev
 
 ## Certifications & Recognition
 
-### Anthropic
+### | **Anthropic Claude 101** | Completed Anthropic's Claude 101 learning program |
 
 <p>
   <img src="https://img.shields.io/badge/Anthropic-AI%20Certification-18181B?style=flat-square&logo=anthropic&logoColor=white"/>
