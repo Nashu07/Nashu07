@@ -310,14 +310,25 @@ Pursuing a **B.Tech in Robotics & Artificial Intelligence**, with a focus on dev
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nashu07/Nashu07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Nashu07/Nashu07/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Nashu07/Nashu07/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Nashu07/Nashu07/output/github-snake.svg"
+    />
+  </picture>
 </p>
-
----
-
+-----
 ## Current Focus
 
-```yaml
+
 Education:
   Degree: B.Tech
   Specialization: Robotics & Artificial Intelligence
@@ -353,7 +364,7 @@ Open To:
   - Open Source
   - Research Opportunities
   - AI Product Development
-````
+
 
 ---
 
