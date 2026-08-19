@@ -1,34 +1,29 @@
 ````markdown
-<h1 align="center">Hi, I'm Nashir Khan</h1>
+<h1 align="center">Nashir Ali</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6366f1,100:7c3aed&height=180&section=header&text=NASHIR%20KHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6366f1,100:7c3aed&height=180&section=header&text=NASHIR%20ALI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+%26+Robotics+Engineering+Student;Software+%26+AI+Engineer;Full-Stack+Developer;Building+Intelligent+Digital+Products;Exploring+Agents%2C+Automation+%26+AI+Systems" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=B.Tech+Robotics+%26+Artificial+Intelligence;AI+%26+Software+Engineering+Enthusiast;Full-Stack+Developer;AI+Agent+Builder;Building+Intelligent+Real-World+Systems" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Robotics-Engineering-6366F1?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software-Engineering-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech-Robotics%20%26%20AI-6366F1?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The%20NorthCap%20University-Gurugram-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nashu07">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:nashirali2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Nashu07">
-    <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Nashu07-312E81?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -40,28 +35,35 @@
 
 ---
 
-## About
+## About Me
 
-I am an **AI & Robotics engineering student** focused on building practical software systems that combine artificial intelligence, automation, and modern application development.
+I am a **B.Tech Robotics & Artificial Intelligence student at The NorthCap University**, interested in building software and intelligent systems that connect AI with real-world applications.
 
-My interests sit at the intersection of **software engineering, AI/ML, full-stack development, intelligent agents, and product engineering**. I enjoy taking an idea from a rough concept to a working system — designing the architecture, building the interface, integrating AI capabilities, and continuously improving the product.
+My interests span **artificial intelligence, software engineering, AI agents, robotics, full-stack development, automation, and product engineering**.
 
-I am particularly interested in:
+I enjoy taking ideas from concept to working prototypes — combining programming, AI models, APIs, databases, automation, and user-focused design.
 
-- **Software Engineering** — clean architecture, APIs, automation, scalable applications
-- **AI/ML Engineering** — LLMs, AI agents, intelligent workflows, model integration
-- **Full-Stack Development** — modern frontend, backend services, authentication, databases
-- **Product Engineering** — transforming real-world problems into usable technology
-- **Developer Tooling** — local AI, automation, CLI systems, and intelligent development workflows
+### What I Work On
+
+- Artificial Intelligence & Machine Learning
+- AI Agents and tool-using systems
+- Software Engineering
+- Full-Stack Web Development
+- Robotics & Intelligent Systems
+- Local AI and LLM experimentation
+- Automation and developer tools
+- Digital twins and smart environments
+- Product-oriented engineering
 
 ### Open To
 
-- AI/ML engineering opportunities
+- AI/ML internships
 - Software engineering internships
-- Full-stack development
-- AI agent development
+- Robotics & AI projects
 - Open-source collaboration
-- Research-driven engineering projects
+- Research opportunities
+- AI agent development
+- Full-stack projects
 - Product-building opportunities
 
 ---
@@ -71,13 +73,13 @@ I am particularly interested in:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css&theme=dark" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind&theme=dark" />
 </p>
 
 ### Backend & Databases
@@ -86,48 +88,55 @@ I am particularly interested in:
   <img src="https://skillicons.dev/icons?i=nodejs,python,supabase,postgresql&theme=dark" />
 </p>
 
-### Cloud, DevOps & Tooling
+### AI / Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,docker&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-Local%20AI-312E81?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-AI%20Engineering-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Automation-7C3AED?style=flat-square"/>
 </p>
 
 ---
 
-## AI/ML Expertise
+## AI & Robotics Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Focus |
 |---|---|---|
-| Large Language Models | Advanced | LLM integration, prompting, local model workflows |
-| AI Agents | Advanced | Tool-calling agents, autonomous workflows, automation |
-| Generative AI | Advanced | AI-assisted applications and intelligent interfaces |
-| Machine Learning | Intermediate | ML fundamentals and practical experimentation |
-| Natural Language Processing | Intermediate | LLM-powered text processing and interaction |
-| AI Automation | Advanced | Agentic workflows and developer automation |
-| Local AI | Intermediate | Ollama, local inference and model experimentation |
-| AI Product Engineering | Advanced | Turning AI capabilities into usable software products |
+| Artificial Intelligence | Developing | AI systems, LLM applications and intelligent workflows |
+| AI Agents | Developing | Tool calling, automation and agentic workflows |
+| Large Language Models | Developing | Local models, inference and AI application integration |
+| Machine Learning | Developing | ML fundamentals and practical experimentation |
+| Robotics | Developing | Robotics concepts and intelligent robotic systems |
+| Software Engineering | Developing | Application architecture, APIs and development workflows |
+| Full-Stack Development | Developing | Frontend, backend, authentication and databases |
+| Automation | Developing | AI-powered workflows and developer automation |
+| Digital Twins | Developing | 3D campus environments and intelligent navigation |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>Hermes — AI Agent & Intelligent Assistant</strong></summary>
+<summary><strong>Hermes — AI Agent System</strong></summary>
 
 ### Overview
 
-An AI-agent project focused on creating an intelligent assistant capable of interacting with tools, executing tasks, and operating as a persistent development companion.
+An AI-agent project exploring how an intelligent assistant can move beyond conversational interaction and perform tasks through tools and automated workflows.
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, LLMs, Agent Tools, Ollama |
-| **Scale** | Personal AI agent platform |
-| **Performance** | Local inference and tool-driven workflows |
-| **Security** | Local-first execution and controlled tool access |
-| **Impact** | Automates development and computer workflows |
-| **Repository** | Private / Active Development |
+| **Stack** | Python, LLMs, AI Agents, Ollama |
+| **Scale** | Personal AI assistant / agent system |
+| **Performance** | Local AI experimentation and tool-based execution |
+| **Security** | Controlled tool access and local execution |
+| **Impact** | Explores practical autonomous AI workflows |
+| **Repository** | GitHub |
 
-The project explores the transition from a conventional chatbot toward an **agentic AI system** that can reason about tasks, use tools, modify projects, and operate through a browser-based interface.
+The project focuses on building an AI system capable of understanding tasks, interacting with tools, and assisting with software-development workflows.
 
 </details>
 
@@ -136,18 +145,18 @@ The project explores the transition from a conventional chatbot toward an **agen
 
 ### Overview
 
-A smart-campus navigation concept designed to create a digital representation of a university environment and provide intelligent navigation through physical campus spaces.
+A smart-campus concept designed to create a digital representation of a university environment and provide intelligent navigation through campus spaces.
 
 | Category | Details |
 |---|---|
 | **Stack** | 3D Digital Twin, AI, Web Technologies |
 | **Scale** | Campus navigation prototype |
-| **Performance** | Lightweight focused MVP architecture |
-| **Security** | Designed around controlled campus information |
-| **Impact** | Improves campus navigation and accessibility |
-| **Repository** | Active Development |
+| **Performance** | Focused MVP architecture |
+| **Security** | Controlled campus information |
+| **Impact** | Smarter campus navigation and accessibility |
+| **Repository** | Development Project |
 
-The initial MVP focuses on a **small, navigable campus route** rather than attempting to model an entire university. The architecture is designed to evolve toward AI-assisted navigation, AR experiences, and intelligent campus services.
+The initial concept focuses on a manageable campus route and is designed to evolve toward intelligent navigation, AI assistance, and future AR-based experiences.
 
 </details>
 
@@ -156,38 +165,38 @@ The initial MVP focuses on a **small, navigable campus route** rather than attem
 
 ### Overview
 
-A web application concept designed to help users discover compatible flatmates using structured profile information and matching logic.
+A full-stack application concept designed to help users discover compatible flatmates through user profiles and matching workflows.
 
 | Category | Details |
 |---|---|
-| **Stack** | Web Technologies, Supabase, Google Authentication |
-| **Scale** | Full-stack application prototype |
-| **Performance** | Cloud-backed database architecture |
+| **Stack** | JavaScript, Supabase, Google Authentication |
+| **Scale** | Full-stack application |
+| **Performance** | Cloud-backed database |
 | **Security** | Authentication and managed database access |
 | **Impact** | Simplifies flatmate discovery |
 | **Repository** | Development Project |
 
-The application focuses on combining **authentication, user profiles, database-backed information, and matching workflows** into a practical consumer product.
+The project combines authentication, user profiles, database management and matching logic into a practical web application.
 
 </details>
 
 <details>
-<summary><strong>Work — Collaborative Software Project</strong></summary>
+<summary><strong>Collaborative Work Project</strong></summary>
 
 ### Overview
 
-A collaborative software project developed as part of practical experimentation and project-based development.
+A collaborative software project created through hands-on development and experimentation.
 
 | Category | Details |
 |---|---|
 | **Stack** | Web Technologies |
 | **Scale** | Collaborative project |
-| **Performance** | Prototype-oriented implementation |
+| **Performance** | Prototype implementation |
 | **Security** | Project-level access controls |
-| **Impact** | Demonstrates collaborative product development |
+| **Impact** | Practical collaborative development |
 | **Repository** | GitHub |
 
-The project represents hands-on experience with building software collaboratively and turning an idea into a working technical product.
+The project represents practical experience in turning an idea into a working software project through collaborative development.
 
 </details>
 
@@ -195,21 +204,22 @@ The project represents hands-on experience with building software collaborativel
 
 ## Experience
 
-### AI & Software Engineering Projects
-**Independent Engineering & Development**  
-**2025 — Present**
+### Robotics & AI Engineering Student
+**The NorthCap University**  
+**2026 — Present**
 
-Focused on building practical applications around artificial intelligence, software engineering, automation, and modern web technologies.
+Pursuing a **B.Tech in Robotics & Artificial Intelligence**, with a focus on developing technical foundations across programming, artificial intelligence, robotics and software engineering.
 
-- Designing AI-powered applications and intelligent workflows
-- Experimenting with LLMs and local AI infrastructure
-- Building AI agents capable of tool interaction and task execution
-- Developing full-stack application prototypes
-- Working with authentication, APIs, databases, and cloud services
-- Exploring product-focused engineering and rapid prototyping
-- Applying software engineering principles to AI systems
+- Building programming fundamentals with Python and C++
+- Exploring artificial intelligence and machine learning
+- Developing software and web-based projects
+- Experimenting with LLMs and AI agents
+- Working with APIs, databases and authentication
+- Exploring robotics and intelligent systems
+- Developing project-based solutions to real-world problems
+- Learning software engineering through practical implementation
 
-**Skills:** `Python` `C++` `JavaScript` `AI/ML` `LLMs` `Agents` `Git` `GitHub` `Supabase` `Full-Stack`
+**Skills:** `Python` `C++` `AI/ML` `Robotics` `LLMs` `AI Agents` `Git` `GitHub` `Full-Stack`
 
 ---
 
@@ -219,40 +229,29 @@ Focused on building practical applications around artificial intelligence, softw
 
 | Recognition | Details |
 |---|---|
-| **AI Engineering** | Built and experimented with agentic AI systems |
-| **Product Engineering** | Developed practical software product concepts |
-| **Digital Twin Development** | Designed a smart-campus navigation concept |
-| **Full-Stack Development** | Built applications integrating frontend, backend and databases |
-| **Local AI Engineering** | Experimented with local LLM infrastructure and model serving |
+| **Robotics Student** | Pursuing B.Tech in Robotics & Artificial Intelligence |
+| **AI Development** | Built and experimented with AI-powered systems |
+| **AI Agents** | Developed projects exploring agentic AI and tool-based workflows |
+| **Digital Twin** | Designed a smart-campus digital twin concept |
+| **Full-Stack Development** | Built practical web application projects |
+| **Robotics Achievement** | School-level recognition in robotics |
 
 </p>
 
 ---
 
-## Certifications
+## Certifications & Recognition
 
-### AWS
+### Anthropic
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-AI%20Certification-18181B?style=flat-square&logo=anthropic&logoColor=white"/>
 </p>
 
-### Oracle
+### Robotics
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle-Technology-7C3AED?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Certification-6366F1?style=flat-square"/>
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Networking-4F46E5?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robotics-School%20Level%20Recognition-6366F1?style=flat-square&logo=robotframework&logoColor=white"/>
 </p>
 
 ---
@@ -316,32 +315,41 @@ Focused on building practical applications around artificial intelligence, softw
 ## Current Focus
 
 ```yaml
+Education:
+  Degree: B.Tech
+  Specialization: Robotics & Artificial Intelligence
+  University: The NorthCap University
+
 Learning:
   - Data Structures & Algorithms
-  - Advanced AI Engineering
+  - Artificial Intelligence
   - Machine Learning
-  - Software Architecture
-  - Agentic AI Systems
+  - Robotics
+  - Software Engineering
+  - Advanced Python & C++
 
 Building:
   - AI Agents
+  - Intelligent Assistants
   - Smart Campus Digital Twin
   - Full-Stack Applications
-  - Intelligent Developer Tools
+  - AI-powered Developer Tools
 
 Exploring:
-  - Local LLM Infrastructure
-  - Multi-Agent Systems
+  - Local LLMs
+  - Agentic AI
   - AI Automation
+  - Robotics
   - 3D Digital Twins
   - AI Product Engineering
 
 Open To:
-  - Software Engineering Opportunities
-  - AI/ML Opportunities
-  - Open Source Collaboration
-  - Research Projects
-  - Product Engineering
+  - AI/ML Internships
+  - Software Engineering Internships
+  - Robotics Projects
+  - Open Source
+  - Research Opportunities
+  - AI Product Development
 ````
 
 ---
@@ -349,24 +357,21 @@ Open To:
 ## Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:nashirali2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nashirali2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nashir%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Nashu07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Nashu07">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Nashu07-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>“Build intelligently. Engineer deliberately. Ship what matters.”</strong>
+  <strong>“Build intelligently. Learn continuously. Turn ideas into real-world systems.”</strong>
 </p>
 
 <p align="center">
